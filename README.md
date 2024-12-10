@@ -1,2 +1,2 @@
-# mern-voting-main
+# Voting Application
  
